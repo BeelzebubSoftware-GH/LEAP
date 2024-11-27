@@ -12,4 +12,4 @@ void printInfo(const char* msg, ...);
 
 void printWarning(const char* msg, ...);
 
-int leapRun(const char* pkg_name);
+int leapRun(const char* pkg_name, int silent);
